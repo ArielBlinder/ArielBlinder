@@ -2,7 +2,7 @@
 
 <h3 align="left">🧠 About Me</h3>
 
-I'm a final-year Computer Science student at Afeka College of Engineering (BSc, July 2025).  
+I'm a final-year Computer Science student at Afeka College of Engineering (BSc, August 2025).  
 Passionate about problem-solving, algorithm design, and building efficient, impactful software.  
 With a solid foundation in systems programming, machine learning, and parallel computing,  
 I thrive on diving deep into complex challenges and crafting clean, effective solutions.  
