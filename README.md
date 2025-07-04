@@ -23,6 +23,7 @@ Currently seeking junior software developer roles to apply my skills and grow wi
   <a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://opencv.org/" title="OpenCV"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
   <a href="https://developer.nvidia.com/cuda-zone" title="CUDA"><img src="https://developer.nvidia.com/favicon.ico" alt="CUDA" width="40" height="40"/></a>
+  
 </p>
 
 ---
