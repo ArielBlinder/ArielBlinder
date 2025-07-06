@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ariel Blinder 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Afeka+College;Passionate+Software+Developer;Problem+Solver+%26+Algorithm+Designer;Always+learning+new+technologies!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=BS.c+Computer+Science;Passionate+Software+Developer;Problem+Solver+%26+Algorithm+Designer;Always+learning+new+technologies!)](https://git.io/typing-svg)
 
 
 <h3 align="left">🧠 About Me</h3>
