@@ -1,85 +1,186 @@
-<h1 align="center">Hi there, I'm Ariel Blinder 👋</h1>
-
-<h3 align="left">🧠 About Me</h3>
-
-I'm a final-year Computer Science student at Afeka College of Engineering (BSc, August 2025).  
-Passionate about problem-solving, algorithm design, and building efficient, impactful software.  
-With a solid foundation in systems programming, machine learning, and parallel computing,  
-I thrive on diving deep into complex challenges and crafting clean, effective solutions.  
-Currently seeking junior software developer roles to apply my skills and grow with a forward-thinking team.
-
----
-
-<h3 align="left">💻 Languages & Tools</h3>
-
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.java.com" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://opencv.org/" title="OpenCV"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://developer.nvidia.com/cuda-zone" title="CUDA"><img src="https://logos-world.net/wp-content/uploads/2020/11/Nvidia-Logo.png" alt="CUDA" width="70" height="40"/></a>
+<div align="center">
   
-</p>
+# 👋 Hi there, I'm Ariel Blinder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Developer;Problem+Solver;AI+Enthusiast" alt="Typing SVG" />
+
+</div>
 
 ---
 
-<h3 align="left">🛠️ Development Environment</h3>
+## 🧠 About Me
 
-<p align="left">
-  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/clion/" title="CLion"><img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="CLion" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40"/></a>
-  <a href="https://cursor.sh/" title="Cursor"><img src="https://cursor.sh/favicon.ico" alt="Cursor" width="40" height="40"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-</p>
+```typescript
+const ariel = {
+    education: "BSc Computer Science @ Afeka College (Aug 2025)",
+    passion: ["Problem Solving", "Algorithm Design", "Clean Code"],
+    expertise: ["Systems Programming", "Machine Learning", "Parallel Computing"],
+    currentFocus: "Building efficient, impactful software",
+    seeking: "Junior Software Developer roles",
+    motto: "Deep dive into complex challenges 🚀"
+};
+```
 
----
-
-<h3 align="left">📚 Academic Projects</h3>
-
-**BoardCast – Real-Time Whiteboard Transcription (React + ML)**  
-• Converts whiteboard content into digital text using OCR (LLaMA 4) and video analysis (Gemini 2.0).  
-• Features include live feed processing, document export, and a modern UI.  
-• Built with Flask, integrated AI APIs, and automated testing.  
-
-**Parallel Image Processing with OpenMP & CUDA**  
-• Accelerated matrix filters and convolution tasks using parallelism.  
-• Implemented efficient GPU-based pipeline and CPU fallback.  
-• Focused on optimizing performance with real-time benchmarks.  
-
-**Exam Management System (Java)**  
-• Created an object-oriented desktop app for creating and storing exams.  
-• Implemented robust file handling and modular structure.  
-
-**Shopping Cart & Database Design (SQL + Java)**  
-• Modeled full ERD, normalized schema, and built backend logic.  
-• Applied SQL and Java integration to manage transactions and item flow.  
-
-**Data Security Algorithms (C, Number Theory)
-• Developed cryptographic number theory tools, including prime checks, Carmichael number detection, and primitive root calculation.
-• Utilized modular builds (Makefile) and robust CLI interfaces.
+<br clear="both"/>
 
 ---
 
-<h3 align="left">🔥 Interests</h3>
+## 💻 Tech Stack
 
-• System-level programming  
-• High-performance computing  
-• AI for practical applications  
-• Clean UI/UX in functional web tools  
+<div align="center">
+
+### Programming Languages
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Frameworks & Libraries
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
+
+### Tools & Technologies
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.w3schools.com/sql/)
+
+</div>
 
 ---
 
-<h3 align="left">📬 Connect With Me</h3>
+## 🛠️ Development Environment
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ariel-blinder" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"></a>
-  <a href="https://github.com/arielblinder" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"></a>
-  <a href="mailto:arielxblinder@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" width="40" height="40"></a>
-</p>
+<div align="center">
+
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
+
+</div>
+
+---
+
+## 📚 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 BoardCast – Real-Time Whiteboard Transcription
+**React + ML**
+- 🔍 Converts whiteboard content to digital text using OCR (LLaMA 4)
+- 📹 Video analysis with Gemini 2.0
+- 🚀 Live feed processing & document export
+- 🎨 Modern UI with Flask backend
+
+</td>
+<td width="50%">
+
+### ⚡ Parallel Image Processing
+**OpenMP & CUDA**
+- 🏎️ Accelerated matrix filters and convolution
+- 🔧 GPU-based pipeline with CPU fallback
+- 📊 Real-time performance benchmarks
+- 🎯 Optimized parallel computing
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 Exam Management System
+**Java**
+- 📝 Object-oriented desktop application
+- 💾 Robust file handling system
+- 🏗️ Modular architecture design
+- 🎯 Complete exam lifecycle management
+
+</td>
+<td width="50%">
+
+### 🛒 Shopping Cart & Database
+**SQL + Java**
+- 🗄️ Full ERD modeling & normalized schema
+- 🔧 Backend logic with transaction management
+- 📦 Item flow optimization
+- 🔐 Secure database integration
+
+</td>
+</tr>
+</table>
+
+### 🔒 Data Security Algorithms
+**C + Number Theory**
+- 🔑 Cryptographic number theory tools
+- ✅ Prime checks & Carmichael number detection
+- 🌊 Primitive root calculation
+- ⚙️ Modular builds with robust CLI
+
+</div>
+
+---
+
+## 🔥 What Drives Me
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Ariel))
+    System Programming
+      Low-level optimization
+      Memory management
+      Performance tuning
+    High-Performance Computing
+      Parallel algorithms
+      GPU programming
+      Distributed systems
+    AI Applications
+      Machine learning
+      Computer vision
+      NLP integration
+    Clean Development
+      Modern UI/UX
+      Functional design
+      Code quality
+```
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielblinder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielblinder&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-blinder)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arielblinder)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielxblinder@gmail.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=arielblinder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+**⭐ From [arielblinder](https://github.com/arielblinder)**
+
+</div>
