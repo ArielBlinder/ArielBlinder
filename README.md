@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Ariel Blinder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Developer;Problem+Solver;AI+Enthusiast" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Afeka+College;Passionate+Software+Developer;Problem+Solver+%26+Algorithm+Designer;Always+learning+new+technologies!)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,18 +12,28 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```typescript
-const ariel = {
-    education: "BSc Computer Science @ Afeka College (Aug 2025)",
-    passion: ["Problem Solving", "Algorithm Design", "Clean Code"],
-    expertise: ["Systems Programming", "Machine Learning", "Parallel Computing"],
-    currentFocus: "Building efficient, impactful software",
-    seeking: "Junior Software Developer roles",
-    motto: "Deep dive into complex challenges 🚀"
-};
-```
+🎓 **Final-year Computer Science student** at Afeka College of Engineering (BSc, August 2025)
+
+🚀 **Passionate about** problem-solving, algorithm design, and building efficient, impactful software
+
+💡 **Expertise in** systems programming, machine learning, and parallel computing
+
+🎯 **Currently seeking** junior software developer roles to apply my skills and grow with a forward-thinking team
 
 <br clear="both"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielblinder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielblinder&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielblinder&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
@@ -32,144 +42,124 @@ const ariel = {
 <div align="center">
 
 ### Programming Languages
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Frameworks & Libraries
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Tools & Technologies
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
-[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.w3schools.com/sql/)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-447CAA?style=for-the-badge&logo=openmp&logoColor=white)
+
+### Development Environment
+
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Development Environment
+## 🛠️ Featured Projects
 
 <div align="center">
-
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
-
-</div>
-
----
-
-## 📚 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
 
 ### 🎯 BoardCast – Real-Time Whiteboard Transcription
-**React + ML**
-- 🔍 Converts whiteboard content to digital text using OCR (LLaMA 4)
-- 📹 Video analysis with Gemini 2.0
-- 🚀 Live feed processing & document export
-- 🎨 Modern UI with Flask backend
 
-</td>
-<td width="50%">
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 
-### ⚡ Parallel Image Processing
-**OpenMP & CUDA**
-- 🏎️ Accelerated matrix filters and convolution
-- 🔧 GPU-based pipeline with CPU fallback
-- 📊 Real-time performance benchmarks
-- 🎯 Optimized parallel computing
+```
+🔥 Converts whiteboard content into digital text using OCR (LLaMA 4) and video analysis (Gemini 2.0)
+✨ Features live feed processing, document export, and modern UI
+🚀 Built with Flask, integrated AI APIs, and automated testing
+```
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### ⚡ Parallel Image Processing with OpenMP & CUDA
 
-### 🎓 Exam Management System
-**Java**
-- 📝 Object-oriented desktop application
-- 💾 Robust file handling system
-- 🏗️ Modular architecture design
-- 🎯 Complete exam lifecycle management
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-447CAA?style=flat-square&logo=openmp&logoColor=white)
 
-</td>
-<td width="50%">
+```
+🚀 Accelerated matrix filters and convolution tasks using parallelism
+💻 Implemented efficient GPU-based pipeline and CPU fallback
+⚡ Focused on optimizing performance with real-time benchmarks
+```
 
-### 🛒 Shopping Cart & Database
-**SQL + Java**
-- 🗄️ Full ERD modeling & normalized schema
-- 🔧 Backend logic with transaction management
-- 📦 Item flow optimization
-- 🔐 Secure database integration
+### 🏫 Exam Management System
 
-</td>
-</tr>
-</table>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4CAF50?style=flat-square&logo=java&logoColor=white)
+
+```
+📚 Created an object-oriented desktop app for creating and storing exams
+🔧 Implemented robust file handling and modular structure
+```
+
+### 🛒 Shopping Cart & Database Design
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+```
+🗄️ Modeled full ERD, normalized schema, and built backend logic
+🔄 Applied SQL and Java integration to manage transactions and item flow
+```
 
 ### 🔒 Data Security Algorithms
-**C + Number Theory**
-- 🔑 Cryptographic number theory tools
-- ✅ Prime checks & Carmichael number detection
-- 🌊 Primitive root calculation
-- ⚙️ Modular builds with robust CLI
 
-</div>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-FF6B35?style=flat-square&logo=letsencrypt&logoColor=white)
 
----
-
-## 🔥 What Drives Me
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Ariel))
-    System Programming
-      Low-level optimization
-      Memory management
-      Performance tuning
-    High-Performance Computing
-      Parallel algorithms
-      GPU programming
-      Distributed systems
-    AI Applications
-      Machine learning
-      Computer vision
-      NLP integration
-    Clean Development
-      Modern UI/UX
-      Functional design
-      Code quality
+```
+🔐 Developed cryptographic number theory tools
+🧮 Including prime checks, Carmichael number detection, and primitive root calculation
+⚙️ Utilized modular builds (Makefile) and robust CLI interfaces
 ```
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 What I'm Passionate About
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielblinder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielblinder&layout=compact&langs_count=8&theme=tokyonight"/>
+```
+🖥️  System-level programming     🚀  High-performance computing
+🤖  AI for practical applications     🎨  Clean UI/UX in functional web tools
+```
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🌟 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arielblinder&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 📬 Let's Connect!
 
 <div align="center">
 
@@ -177,10 +167,21 @@ mindmap
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arielblinder)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielxblinder@gmail.com)
 
+</div>
+
 ---
 
-<img src="https://komarev.com/ghpvc/?username=arielblinder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-**⭐ From [arielblinder](https://github.com/arielblinder)**
+![Profile Views](https://komarev.com/ghpvc/?username=arielblinder&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/arielblinder?label=Follow&style=social)](https://github.com/arielblinder)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" />
 </div>
