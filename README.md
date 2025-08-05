@@ -4,7 +4,7 @@
 
 
 <h3 align="left">🧠 About Me</h3>
-
+BS.c in computer science
 Passionate about problem-solving, algorithm design, and building efficient, impactful software.  
 With a solid foundation in systems programming, machine learning, and parallel computing,  
 I thrive on diving deep into complex challenges and crafting clean, effective solutions.  
