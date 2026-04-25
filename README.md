@@ -59,6 +59,8 @@ I am a Computer Science graduate (B.Sc., Afeka College) specializing in **Backen
 
 <h3 align="left">📬 Connect With Me</h3>
 
+<h3 align="left">📬 Connect With Me</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ariel-blinder" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"></a> <a href="https://github.com/arielblinder" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"></a> <a href="mailto:arielxblinder@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" width="40" height="40"></a>
 </p>
