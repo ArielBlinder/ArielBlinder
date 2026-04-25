@@ -1,31 +1,27 @@
 <h1 align="center">Hi there, I'm Ariel Blinder 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=BS.c+Computer+Science;Passionate+Software+Developer;Problem+Solver+%26+Algorithm+Designer;Always+learning+new+technologies!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Sc.+Computer+Science;Backend+%26+Infrastructure+Engineer;Generative+AI+%26+RAG+Architectures;Test+Automation+Specialist)](https://git.io/typing-svg)
 
 <h3 align="left">🧠 About Me</h3>
-BS.c in computer science
-Passionate about problem-solving, algorithm design, and building efficient, impactful software.  
-With a solid foundation in systems programming, machine learning, and parallel computing,  
-I thrive on diving deep into complex challenges and crafting clean, effective solutions.  
-Currently seeking junior software developer roles to apply my skills and grow with a forward-thinking team.
+I am a Computer Science graduate (B.Sc., Afeka College) specializing in **Backend Architecture, Systems Infrastructure, and Test Automation**. I focus on building high-throughput data pipelines, secure REST APIs, and integrating modern generative AI (LLMs, RAG) into scalable production systems. Backed by leadership experience as an IDF Recruit Commander and hands-on system troubleshooting as an independent IT consultant, I care about fault-tolerant systems, clear documentation, and measurable performance.
+
+**Core Focus:** Python, FastAPI, Docker, AWS, pytest, ChromaDB, CI/CD.
 
 ---
 
-<h3 align="left">💻 Languages & Tools</h3>
+<h3 align="left">💻 Tech Stack & Infrastructure</h3>
 
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.java.com" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://opencv.org/" title="OpenCV"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://developer.nvidia.com/cuda-zone" title="CUDA"><img src="https://logos-world.net/wp-content/uploads/2020/11/Nvidia-Logo.png" alt="CUDA" width="70" height="40"/></a>
-  
+  <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
 </p>
 
 ---
@@ -34,47 +30,41 @@ Currently seeking junior software developer roles to apply my skills and grow wi
 
 <p align="left">
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/clion/" title="CLion"><img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="CLion" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40"/></a>
-  <a href="https://cursor.sh/" title="Cursor"><img src="https://cursor.sh/favicon.ico" alt="Cursor" width="40" height="40"/>
-
+  <a href="https://cursor.sh/" title="Cursor"><img src="https://cursor.sh/favicon.ico" alt="Cursor" width="40" height="40"/></a>
 </p>
 
 ---
 
-<h3 align="left">📚 Academic Projects</h3>
+<h3 align="left">🚀 Flagship Projects</h3>
 
-**BoardCast – Real-Time Whiteboard Transcription (React + ML)**  
-• Converts whiteboard content into digital text using OCR (LLaMA 4) and video analysis (Gemini 2.0).  
-• Features include live feed processing, document export, and a modern UI.  
-• Built with Flask, integrated AI APIs, and automated testing.  
+**[BoardCast – Real-Time Whiteboard Transcription System](https://github.com/ArielBlinder)** *(Python, FFmpeg, LLMs, Multithreading)* • Architected a multithreaded video pipeline using FFmpeg to digitize handwritten content, achieving a 60x reduction in processing time.  
+• Implemented an LLM-powered correction layer using local inference and quantization to semantically repair OCR errors.  
+• Engineered an intelligent frame-filtering algorithm to significantly reduce redundant processing overhead.  
 
-**Parallel Image Processing with OpenMP & CUDA**  
-• Accelerated matrix filters and convolution tasks using parallelism.  
-• Implemented efficient GPU-based pipeline and CPU fallback.  
-• Focused on optimizing performance with real-time benchmarks.  
+**[LangGraph RAG Agent — Data Pipeline Automation](https://github.com/ArielBlinder)** *(Python, LangGraph, ChromaDB)* • Built an automated ETL pipeline to ingest, chunk, and index large datasets into ChromaDB, ensuring data integrity and retrieval precision.  
+• Developed backend logic in Python to manage stateful multi-turn interactions, orchestrating agentic workflows and tool calling.  
 
-**Exam Management System (Java)**  
-• Created an object-oriented desktop app for creating and storing exams.  
-• Implemented robust file handling and modular structure.  
+**[Personal Trip Planner — Cloud Native Backend API](https://github.com/ArielBlinder)** *(FastAPI, MongoDB, REST APIs)* • Architected a secure REST API using FastAPI and MongoDB, designing scalable endpoints to handle user sessions and complex routing data.  
+• Integrated external Cloud APIs (Groq) for real-time data processing, focusing on low-latency response times and high availability.  
+• Implemented JWT Authentication to secure API access, adhering to modern security best practices.  
 
-**Shopping Cart & Database Design (SQL + Java)**  
-• Modeled full ERD, normalized schema, and built backend logic.  
-• Applied SQL and Java integration to manage transactions and item flow.  
-
-**Data Security Algorithms (C, Number Theory)
-• Developed cryptographic number theory tools, including prime checks, Carmichael number detection, and primitive root calculation.
-• Utilized modular builds (Makefile) and robust CLI interfaces.
+<details>
+<summary><b>📚 Other Academic Work</b></summary>
+<br>
+• <b>Parallel Image Processing:</b> Accelerated matrix filters and convolution tasks using OpenMP & CUDA. <br>
+• <b>Exam Management System:</b> Java-based OOP desktop application with modular file handling. <br>
+• <b>Data Security Algorithms:</b> Cryptographic number theory tools (prime checks, primitive roots) built in C.
+</details>
 
 ---
 
-<h3 align="left">🔥 Interests</h3>
+<h3 align="left">🔥 Technical Focus</h3>
 
-• System-level programming  
-• High-performance computing  
-• AI for practical applications  
-• Clean UI/UX in functional web tools  
+• Backend Architecture & Systems Infrastructure  
+• Test Automation Frameworks (pytest, CI/CD)  
+• Agentic Workflows & RAG Pipelines  
+• High-Performance Computing & Multithreading  
 
 ---
 
