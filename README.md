@@ -17,7 +17,7 @@ I am a Computer Science graduate (B.Sc., Afeka College) specializing in **Backen
 
 <h3 align="left">🛠️ Development Environment</h3>
 
-<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>&nbsp;<a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40"/></a>&nbsp;<a href="https://cursor.sh/" title="Cursor"><img src="https://cursor.sh/favicon.ico" alt="Cursor" width="40" height="40"/></a>
+[![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/) [![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge)](https://cursor.sh/)
 
 ---
 
@@ -55,4 +55,4 @@ I am a Computer Science graduate (B.Sc., Afeka College) specializing in **Backen
 
 <h3 align="left">📬 Connect With Me</h3>
 
-<a href="https://www.linkedin.com/in/ariel-blinder" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"></a>&nbsp;<a href="https://github.com/arielblinder" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"></a>&nbsp;<a href="mailto:arielxblinder@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" width="40" height="40"></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-blinder) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arielblinder) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielxblinder@gmail.com)
